@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CFuncionesGenerales.cs">
+    <Files>
+      <File FileName="MyClass.cs" Line="13" Column="1" />
+      <File FileName="CConexionesBD.cs" Line="25" Column="39" />
+      <File FileName="CFuncionesGenerales.cs" Line="153" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
